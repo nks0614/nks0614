@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   + JavaScript
 
 - 💬 Ask me about ...<br>
-  namgyeseok0614@naver.com
+  namgyeseok0614@naver.com<br>
   [Facebook](https://www.facebook.com/profile.php?id=100012233264451)
 
