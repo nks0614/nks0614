@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![nks0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=nks0614&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks0614&show_icons=true)
