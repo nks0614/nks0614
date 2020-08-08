@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...<br>
   namgyeseok0614@naver.com
-  
   [Facebook](https://www.facebook.com/profile.php?id=100012233264451)
 
