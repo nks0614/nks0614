@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nks0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=nks0614&show_icons=true&bg_color=#ffffff)
+![nks0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=nks0614&show_icons=true&include_all_commits)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks0614&show_icons=true)
 
