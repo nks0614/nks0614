@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
   + Kotlin
   + Java
-  + React Native
   + JavaScript
 
 - 📫 How to reach me ...<br>
