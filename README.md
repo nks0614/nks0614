@@ -1,8 +1,8 @@
 ## HELLO WORLD! 👋
 
 
-앱 개발을 공부하고 있는 대구소프트웨어고등학교 2학년 남규석이라고 합니다. 👨‍💻<br>
-I'm GyuSeok Nam, a 2nd grade at DaeguSoftwareHighschool. And I studying app development.
+앱 개발을 공부하고 있는 대구소프트웨어고등학교 3학년 남규석이라고 합니다. 👨‍💻<br>
+I'm GyuSeok Nam, a 3rd grade at DaeguSoftwareHighschool. And I studying app development.
 <!--
 **nks0614/nks0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
