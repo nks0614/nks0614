@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   + JavaScript
   + Android Native
   + Node.Js
+  + React Native
 
 - 📫 How to reach me ...<br>
   + namgyeseok0614@naver.com<br>
