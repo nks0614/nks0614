@@ -1,6 +1,5 @@
 ## HELLO WORLD! 👋
 
-매일을 And로 이을 개발자 남규석입니다.
 <!--
 **nks0614/nks0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
