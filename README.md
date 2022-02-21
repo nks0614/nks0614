@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 ![nks0614's GitHub stats](https://github-readme-stats.vercel.app/api?username=nks0614&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks0614&hide=html,c%23,css)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning ...
-  + Kotlin
-  + Java
-  + JavaScript
-  + Android
-  + Swift
-  + iOS
-
 - 📫 How to reach me ...<br>
   + namgyeseok0614@naver.com<br>
   + [Facebook](https://www.facebook.com/profile.php?id=100012233264451)
