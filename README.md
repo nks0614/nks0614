@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me ...<br>
   + namgyeseok0614@naver.com<br>
-  + [Facebook](https://www.facebook.com/profile.php?id=100012233264451)
 
